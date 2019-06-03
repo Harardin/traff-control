@@ -1,0 +1,9 @@
+E:\SharpProjects\CloakaControllerApp\CloakaControllerApp\bin\Debug\CloakaControllerApp.exe.config
+E:\SharpProjects\CloakaControllerApp\CloakaControllerApp\obj\Debug\CloakaControllerApp.csprojResolveAssemblyReference.cache
+E:\SharpProjects\CloakaControllerApp\CloakaControllerApp\obj\Debug\CloakaControllerApp.Properties.Resources.resources
+E:\SharpProjects\CloakaControllerApp\CloakaControllerApp\obj\Debug\CloakaControllerApp.csproj.GenerateResource.Cache
+E:\SharpProjects\CloakaControllerApp\CloakaControllerApp\bin\Debug\CloakaControllerApp.exe
+E:\SharpProjects\CloakaControllerApp\CloakaControllerApp\bin\Debug\CloakaControllerApp.pdb
+E:\SharpProjects\CloakaControllerApp\CloakaControllerApp\obj\Debug\CloakaControllerApp.exe
+E:\SharpProjects\CloakaControllerApp\CloakaControllerApp\obj\Debug\CloakaControllerApp.pdb
+E:\SharpProjects\CloakaControllerApp\CloakaControllerApp\obj\Debug\CloakaControllerApp.RulesController.resources
